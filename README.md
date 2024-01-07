@@ -1,4 +1,5 @@
-Coffee Ordering System:
+Coffee Ordering System
+
 User is prompted to pick from five different options:
 
 1. Read Inventory
